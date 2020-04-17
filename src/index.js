@@ -1,0 +1,1 @@
+alert('Test Run - Welcome to Click Ripple Application.')
